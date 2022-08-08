@@ -1,2 +1,2 @@
-# DevOps-CICD-Pipelines
-Demonstrate different pipelines for different types of projects
+# DevOps : CICD Piplelines
+Apps CI/CD using Github actions and Jenkins
